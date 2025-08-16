@@ -1,0 +1,1589 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8dd852d8-d65b-486f-b886-06b012a9dc7c")
+	(paper "A4")
+	(lib_symbols)
+	(no_connect
+		(at 101.6 33.02)
+		(uuid "0e1d3040-6312-47c7-b08c-a3989a48b61c")
+	)
+	(no_connect
+		(at 101.6 38.1)
+		(uuid "0fac1984-7b73-41f5-8397-c1eded153487")
+	)
+	(no_connect
+		(at 101.6 20.32)
+		(uuid "108d3195-9698-4701-9d34-cf4b17f6d1a3")
+	)
+	(no_connect
+		(at 101.6 43.18)
+		(uuid "16a97842-a31c-43e0-a1ed-39ed213e184d")
+	)
+	(no_connect
+		(at 101.6 25.4)
+		(uuid "62025809-b2fb-4e3d-a84e-1ec4ad547288")
+	)
+	(no_connect
+		(at 101.6 22.86)
+		(uuid "85d4341f-178b-4b8a-a2ef-db82afbbfdf5")
+	)
+	(no_connect
+		(at 101.6 35.56)
+		(uuid "889ce76b-e667-49b3-b1e2-f90293a4d45a")
+	)
+	(no_connect
+		(at 101.6 40.64)
+		(uuid "c39e9d36-f2ff-4d05-9466-194645304fe4")
+	)
+	(wire
+		(pts
+			(xy 114.3 66.04) (xy 147.32 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "017f5fb3-0c05-4148-bab4-390c5453819c")
+	)
+	(wire
+		(pts
+			(xy 143.51 104.14) (xy 147.32 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1882c05c-c60d-4971-aad9-e0b820096f45")
+	)
+	(wire
+		(pts
+			(xy 114.3 76.2) (xy 147.32 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24a8a0f7-f841-4af5-be65-b4353a508577")
+	)
+	(wire
+		(pts
+			(xy 43.18 78.74) (xy 48.26 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a70fa96-02a0-4d6d-acdd-9d36e830dbb3")
+	)
+	(wire
+		(pts
+			(xy 143.51 97.79) (xy 147.32 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e3e0c27-9c61-4fcf-b780-82363727166d")
+	)
+	(wire
+		(pts
+			(xy 43.18 81.28) (xy 48.26 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "671393fc-ad6c-4633-a78c-14819346f761")
+	)
+	(wire
+		(pts
+			(xy 116.84 85.09) (xy 114.3 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "746d5e4d-a32d-4d0d-a099-7a98d18b841d")
+	)
+	(wire
+		(pts
+			(xy 86.36 63.5) (xy 91.44 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8511c8d1-bc78-490c-804b-bcd1a5a41988")
+	)
+	(wire
+		(pts
+			(xy 86.36 66.04) (xy 91.44 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87b58269-ce95-4ab4-9a38-8ae62631cf33")
+	)
+	(wire
+		(pts
+			(xy 69.85 20.32) (xy 74.93 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87cf1250-8ed8-4929-abf9-c27e70ca3d55")
+	)
+	(wire
+		(pts
+			(xy 116.84 87.63) (xy 120.65 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e930830-3ba8-42af-aad8-8d0c716db83b")
+	)
+	(wire
+		(pts
+			(xy 114.3 63.5) (xy 147.32 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fcd0311-d658-476e-8d8f-72fdda401b37")
+	)
+	(wire
+		(pts
+			(xy 143.51 91.44) (xy 147.32 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aed59628-0989-4144-a447-84831a990776")
+	)
+	(wire
+		(pts
+			(xy 143.51 87.63) (xy 147.32 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b013ad15-c099-4661-a70c-80df25ac9394")
+	)
+	(wire
+		(pts
+			(xy 43.18 63.5) (xy 48.26 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2475a0a-0573-4e13-a4fb-7044c03b37e1")
+	)
+	(wire
+		(pts
+			(xy 43.18 66.04) (xy 48.26 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c04df62b-18bc-46b2-a981-5718b74803d4")
+	)
+	(wire
+		(pts
+			(xy 143.51 100.33) (xy 147.32 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1d5ffe9-8863-4df3-b831-59e7f85f9f63")
+	)
+	(wire
+		(pts
+			(xy 118.11 85.09) (xy 120.65 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0d2ff1c-d3ab-4fb1-b79e-ddf7d21bd8e6")
+	)
+	(wire
+		(pts
+			(xy 118.11 85.09) (xy 118.11 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8a9fd70-2922-4c63-b919-9a5ea57f5459")
+	)
+	(wire
+		(pts
+			(xy 69.85 22.86) (xy 74.93 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da0b847d-e9dd-42f8-9d99-70ef213c396e")
+	)
+	(wire
+		(pts
+			(xy 116.84 87.63) (xy 116.84 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db38abb3-2049-4db5-baca-9623c1b9a909")
+	)
+	(wire
+		(pts
+			(xy 143.51 85.09) (xy 147.32 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db94c9ce-f84d-46a7-bbf2-d48bf84cf253")
+	)
+	(wire
+		(pts
+			(xy 143.51 106.68) (xy 147.32 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd6878c6-0425-4d2a-8c95-671b89a9398d")
+	)
+	(wire
+		(pts
+			(xy 143.51 93.98) (xy 147.32 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6a078fe-e4b6-4464-8744-310c2945b064")
+	)
+	(wire
+		(pts
+			(xy 114.3 78.74) (xy 147.32 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee05648e-97a2-49c8-98eb-fd38dad76642")
+	)
+	(wire
+		(pts
+			(xy 114.3 72.39) (xy 147.32 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee378cac-a62d-4fd5-a847-a09468c8c4e6")
+	)
+	(wire
+		(pts
+			(xy 114.3 69.85) (xy 147.32 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1d07e2f-53ea-459f-9331-217ffcb59207")
+	)
+	(wire
+		(pts
+			(xy 118.11 82.55) (xy 114.3 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5f144d8-9af6-4e40-bca0-c8a2e4cce554")
+	)
+	(label "~{OE}"
+		(at 68.58 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "068ab292-1e63-47de-9026-5af026de06b6")
+	)
+	(label "SELECT"
+		(at 64.77 59.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7d01b781-b72c-4589-96a2-7a16407f2647")
+	)
+	(label "~{OE}"
+		(at 101.6 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c86f6388-223f-4c09-920e-7d7767c699c2")
+	)
+	(label "SELECT"
+		(at 101.6 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d1242c22-6ca4-4bf8-8c0c-e8f5d858eb05")
+	)
+	(sheet
+		(at 41.91 16.51)
+		(size 27.94 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1c65e50d-d876-4c81-b849-f0bdab9eca0d")
+		(property "Sheetname" "power"
+			(at 41.91 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 41.91 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 69.85 20.32 0)
+			(uuid "5fc4015a-7f96-48a4-968f-4e6b5aff84da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 69.85 22.86 0)
+			(uuid "eceb8c02-1367-4fbf-9d73-52ab98f3fab7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 16.51)
+		(size 21.59 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "30d2156a-831e-4df1-b3f5-2a2b4bbe5025")
+		(property "Sheetname" "hole"
+			(at 15.24 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "hole.kicad_sch"
+			(at 15.24 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 83.82)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4559529b-7085-4a62-bd9d-e6205937b01b")
+		(property "Sheetname" "deviceA"
+			(at 160.528 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "deviceA.kicad_sch"
+			(at 160.528 87.376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 147.32 85.09 180)
+			(uuid "69dee622-5f47-4cb4-b16f-65da53bc8441")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 147.32 87.63 180)
+			(uuid "de53a752-fe4e-4521-a700-6fc72347dcf4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 62.23)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "58b9d0ef-a1b7-4a5d-a50a-92e0493adba3")
+		(property "Sheetname" "deviceC"
+			(at 160.528 63.754 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "deviceC.kicad_sch"
+			(at 160.528 65.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 147.32 63.5 180)
+			(uuid "f003f871-9d7c-4277-92d2-89ab0a16aa17")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 147.32 66.04 180)
+			(uuid "31a206fc-865d-494a-a864-a640d552b2bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 102.87)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6054a364-161f-4fc1-a59c-ce092a257fc8")
+		(property "Sheetname" "deviceA3"
+			(at 160.528 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "deviceA.kicad_sch"
+			(at 160.528 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 147.32 104.14 180)
+			(uuid "ecf075c4-882a-405d-b394-6495eb950362")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 147.32 106.68 180)
+			(uuid "0393d4a3-5554-4b54-a99e-9cbc084951d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 90.17)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "74150161-8a43-4205-98e7-86123d7d4e33")
+		(property "Sheetname" "deviceA1"
+			(at 160.528 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "deviceA.kicad_sch"
+			(at 160.528 93.726 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 147.32 91.44 180)
+			(uuid "b14737e7-1b5b-40d7-bf49-e9a3f7895d27")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 147.32 93.98 180)
+			(uuid "e7127e26-6156-4c51-a044-8bb18c9d38eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 81.28)
+		(size 22.86 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "75b8f278-b538-4081-90b7-a25d73d8df60")
+		(property "Sheetname" "hub1"
+			(at 120.65 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "hub.kicad_sch"
+			(at 120.65 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A_CHILD_D+" bidirectional
+			(at 143.51 85.09 0)
+			(uuid "75dca6f4-20e8-4012-9133-d33af5bea86b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "A_CHILD_D-" bidirectional
+			(at 143.51 87.63 0)
+			(uuid "9946265e-860e-44c5-89b0-203091697a33")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "B_CHILD_D+" bidirectional
+			(at 143.51 91.44 0)
+			(uuid "e334010f-266c-45ab-bbb1-bfc4021035aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "B_CHILD_D-" bidirectional
+			(at 143.51 93.98 0)
+			(uuid "c1d25b13-24a9-470c-91f0-0676549f49a5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "C_CHILD_D+" bidirectional
+			(at 143.51 97.79 0)
+			(uuid "7a7d0e86-9606-4f0f-9ae1-e954348d5841")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "C_CHILD_D-" bidirectional
+			(at 143.51 100.33 0)
+			(uuid "981a831e-0c97-4a1c-8e11-5bba2a5871d6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 120.65 85.09 180)
+			(uuid "42592108-436a-433d-880d-b5620f97d49c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 120.65 87.63 180)
+			(uuid "b2676f00-25a1-44a4-b8e0-caba0b0a1ac8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_CHILD_D+" bidirectional
+			(at 143.51 104.14 0)
+			(uuid "fd25b10a-7dca-479b-8ed0-2c190c3e5cb1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D_CHILD_D-" bidirectional
+			(at 143.51 106.68 0)
+			(uuid "71cc7f54-1938-4742-bb7a-3c490958eea0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 59.69)
+		(size 27.94 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7648c366-bf4f-4212-8d7f-c694db85d79a")
+		(property "Sheetname" "host"
+			(at 15.24 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "host.kicad_sch"
+			(at 15.24 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 43.18 63.5 0)
+			(uuid "1d6be426-cf16-40d4-b1cb-2674ab06c891")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 43.18 66.04 0)
+			(uuid "79edc2ee-b799-4f82-843e-72a85fdeba9c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 59.69)
+		(size 22.86 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8a0a3b69-17e4-4817-ab42-6df7fd884a46")
+		(property "Sheetname" "hub"
+			(at 91.44 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "hub.kicad_sch"
+			(at 91.44 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A_CHILD_D+" bidirectional
+			(at 114.3 63.5 0)
+			(uuid "b2ba37b0-feea-4eff-9510-238ad613381e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "A_CHILD_D-" bidirectional
+			(at 114.3 66.04 0)
+			(uuid "ef053f77-bd01-48be-bb96-a5d8d74dca6b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "B_CHILD_D+" bidirectional
+			(at 114.3 69.85 0)
+			(uuid "e7005fb3-8f9f-4ee0-8dc9-fa298d91eb66")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "B_CHILD_D-" bidirectional
+			(at 114.3 72.39 0)
+			(uuid "6fb7ddc6-ae90-43a2-8bab-c3d16c71c195")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "C_CHILD_D+" bidirectional
+			(at 114.3 76.2 0)
+			(uuid "36b483b3-83c8-45c3-bacf-07e5cd475b29")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "C_CHILD_D-" bidirectional
+			(at 114.3 78.74 0)
+			(uuid "5ff6dfc4-f5f2-40bd-b65a-bbe47314dd26")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 91.44 63.5 180)
+			(uuid "5088d563-c0db-41b6-8b1e-8355f8fb1383")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 91.44 66.04 180)
+			(uuid "4f920cb0-1bf2-4249-8b2c-b03975244bd6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_CHILD_D+" bidirectional
+			(at 114.3 82.55 0)
+			(uuid "1bc68087-6864-427e-862d-6db6adb484f1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D_CHILD_D-" bidirectional
+			(at 114.3 85.09 0)
+			(uuid "831aa3c8-1904-4ae2-a876-42383848916a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 74.93)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "93635543-5ae8-49d8-a0d5-79a8053b49cb")
+		(property "Sheetname" "deviceC2"
+			(at 160.528 76.454 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "deviceC.kicad_sch"
+			(at 160.528 78.232 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 147.32 76.2 180)
+			(uuid "65eca61f-00fd-47ac-a1f9-f2dfb9bdd421")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 147.32 78.74 180)
+			(uuid "0c660c2d-97e1-4427-af8c-8fc9c2b71c14")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 74.93 16.51)
+		(size 26.67 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "953bf69e-ce7e-467e-900f-912baa0861e1")
+		(property "Sheetname" "esp32c3"
+			(at 74.93 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32c3.kicad_sch"
+			(at 74.93 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GPIO0" bidirectional
+			(at 101.6 20.32 0)
+			(uuid "37e5d977-47c5-4ef5-8917-7eb3cfcfb550")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO1" bidirectional
+			(at 101.6 22.86 0)
+			(uuid "be3a2f05-114f-4e7e-8c68-f514030bbc8e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO3" bidirectional
+			(at 101.6 25.4 0)
+			(uuid "55b8dff0-3c93-4e98-abb7-1e64beb90e49")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO4" bidirectional
+			(at 101.6 27.94 0)
+			(uuid "9de97425-06aa-4b78-a385-74eb18bb4d67")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO5" bidirectional
+			(at 101.6 30.48 0)
+			(uuid "26612b93-3ddd-4fa4-8d75-e13cfc573c6e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO6" bidirectional
+			(at 101.6 33.02 0)
+			(uuid "ee757439-31bb-481e-9716-ec4f6acc646f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO7" bidirectional
+			(at 101.6 35.56 0)
+			(uuid "5ec42c66-851d-4970-9c64-111adc7e24fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO10" bidirectional
+			(at 101.6 38.1 0)
+			(uuid "d8138ea6-91ec-4fde-8a33-fe7db9d28ae1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO20" bidirectional
+			(at 101.6 40.64 0)
+			(uuid "7e7fe75e-0351-464e-a885-4f2d5589e0b7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO21" bidirectional
+			(at 101.6 43.18 0)
+			(uuid "3ce06d04-b527-4c7b-a0a5-750e73fbbe80")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 74.93 20.32 180)
+			(uuid "333c7faa-b447-49bb-af47-dfa26ddf6aa8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 74.93 22.86 180)
+			(uuid "40e7e0c7-abda-47ed-bc3a-b747f8d3045e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 68.58)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9905fc0c-cea6-40b3-b6b9-83e7130e3af8")
+		(property "Sheetname" "deviceC1"
+			(at 160.528 70.104 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "deviceC.kicad_sch"
+			(at 160.528 71.882 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 147.32 69.85 180)
+			(uuid "6ebbbc0c-4bf8-49c5-b9fa-e0ab8f1bba9a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 147.32 72.39 180)
+			(uuid "51c8f895-36d5-4645-aedc-9bb34ee96b1b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 74.93)
+		(size 27.94 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b3a84edb-5ba8-4864-9efd-9dbe23f3c199")
+		(property "Sheetname" "host1"
+			(at 15.24 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "host.kicad_sch"
+			(at 15.24 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 43.18 78.74 0)
+			(uuid "8e224b0c-37c9-48b8-92a7-ac4416bcdd32")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 43.18 81.28 0)
+			(uuid "dfb895b6-6391-411f-963f-e3a30702ccc6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 96.52)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bdddf3b9-9926-403d-ae61-46bdddf9b839")
+		(property "Sheetname" "deviceA2"
+			(at 160.528 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "deviceA.kicad_sch"
+			(at 160.528 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 147.32 97.79 180)
+			(uuid "469bd25d-8175-40d9-8dd2-7f1cf807c178")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 147.32 100.33 180)
+			(uuid "cf40cd70-046d-49dd-805d-a40fb90878c2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 48.26 59.69)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ccec5314-1155-48bb-8773-6a5e0fee1170")
+		(property "Sheetname" "switch"
+			(at 48.26 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "switch.kicad_sch"
+			(at 48.26 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A_HOST_D+" bidirectional
+			(at 48.26 63.5 180)
+			(uuid "6a70fb7c-a71d-4fbc-b997-922bca9e6355")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "A_HOST_D-" bidirectional
+			(at 48.26 66.04 180)
+			(uuid "d1031c4e-d0cd-4c5d-8395-0887a2d69342")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "B_HOST_D+" bidirectional
+			(at 48.26 78.74 180)
+			(uuid "626450a7-b0b8-480a-b62d-015f649eae81")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "B_HOST_D-" bidirectional
+			(at 48.26 81.28 180)
+			(uuid "9df2b8f6-0c08-4e51-b1e8-582127ca81f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SELECT" input
+			(at 64.77 59.69 90)
+			(uuid "53077ccd-4f80-4081-bfa5-1c34687aa063")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{OE}" input
+			(at 68.58 59.69 90)
+			(uuid "042f5fcf-504b-4cb7-9bbc-243445efe3bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 86.36 66.04 0)
+			(uuid "7d0be0ad-e9f0-45a1-bb8d-d4a00def334e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 86.36 63.5 0)
+			(uuid "6b6c3556-d794-4bcd-bf03-86af7213afb2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "usbhub_rev"
+				(path "/8dd852d8-d65b-486f-b886-06b012a9dc7c"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
